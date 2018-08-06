@@ -51,7 +51,7 @@ ga:
 # Leave empty for generic placeholder image.
 # You can use your GitHub image:
 #avatar: "https://avatars3.githubusercontent.com/u/32414568"
-avatar: "images/profile.png"
+avatar: "images/profile.jpg"
 #avatar:
 
 
@@ -173,7 +173,7 @@ links:
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 #extra_html:
 extra_html: >
-    Hello, World
-    你好，世界
+    Hello, World | 你好，世界
 
+    
 #EOF
